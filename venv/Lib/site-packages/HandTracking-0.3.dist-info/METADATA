@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: HandTracking
+Version: 0.3
+Summary: This is HandTracking package made by abhinav kourav.
+Home-page: UNKNOWN
+Author: Abhinav Kourav
+Author-email: kouabhinav@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: opencv-python
+Requires-Dist: mediapipe
+
+This package will track your hand. It can be used in many projects.
+
+
